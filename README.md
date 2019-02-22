@@ -6,7 +6,7 @@ The "Friend Finder" application is similar to a dating app but with friends. Thi
 
 ## Demo
 
-Navigate to [Demo] (https://alinav-friend-finder.herokuapp.com/) hosted on [Heroku](https://www.heroku.com/).
+Navigate to [Demo](https://alinav-friend-finder.herokuapp.com/) hosted on [Heroku](https://www.heroku.com/).
 
 ## Setup
 
